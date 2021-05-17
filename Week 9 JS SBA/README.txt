@@ -1,5 +1,6 @@
 This web page is a starter page for my eCommerce site. It has a main (index) landing page, a login page, a signup page, and a cart page (purely nonfunctional - has an example table). The menu on the left is also nonfunctional as of yet. Icons at the top take you to the login page and cart. Signup page performs validation beyond the HTML validation for the inputs.
 
+Hosted at: https://github.com/michael-maderich/PerScholas_HTMLJavascript/tree/main/Week%209%20JS%20SBA
 
 Technical requirements:
 
